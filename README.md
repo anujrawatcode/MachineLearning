@@ -11,4 +11,4 @@ This is repo which contain ML step by step learning
 9. Feature Engineering
 10. Spliting Data
 11. Algorithms
-Projects
+12. Projects

@@ -7,3 +7,6 @@ This is repo which contain ML step by step learning
 5. Data Preprocessing
 6. Variables
 7. Missing value treatment
+8. Feature Engineering
+9. Spliting Data
+10. Algorithms

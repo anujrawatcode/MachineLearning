@@ -4,9 +4,11 @@ This is repo which contain ML step by step learning
 2. Numpy
 3. Pandas
 4. Matplotlib
-5. Data Preprocessing
-6. Variables
-7. Missing value treatment
-8. Feature Engineering
-9. Spliting Data
-10. Algorithms
+5. Seaborn
+6. Data Preprocessing
+7. Variables
+8. Missing value treatment
+9. Feature Engineering
+10. Spliting Data
+11. Algorithms
+Projects
